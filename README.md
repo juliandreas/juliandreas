@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julian</h1>
 <h3 align="center">A frontend developer from Sweden</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=juliandreas" alt="juliandreas" /> </p>
 
 <p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> </p>
 
